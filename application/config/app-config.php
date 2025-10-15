@@ -18,7 +18,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 *
 */
 if (!defined('APP_BASE_URL')) {
-    define('APP_BASE_URL', 'https://livesoftwaretdl.in/');
+    define('APP_BASE_URL', 'https://live.livesoftwaretdl.in/');
 }
 
 /*
@@ -43,7 +43,7 @@ if (!defined('APP_ENC_KEY')) {
  * The hostname of your database server
  */
 if (!defined('APP_DB_HOSTNAME')) {
-    define('APP_DB_HOSTNAME', '127.0.0.1');
+    define('APP_DB_HOSTNAME', 'liveaccountsoftware_liveaccountsoftware');
 }
 
 /**
