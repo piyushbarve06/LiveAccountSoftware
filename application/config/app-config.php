@@ -43,7 +43,7 @@ if (!defined('APP_ENC_KEY')) {
  * The hostname of your database server
  */
 if (!defined('APP_DB_HOSTNAME')) {
-    define('APP_DB_HOSTNAME', 'localhost');
+    define('APP_DB_HOSTNAME', '127.0.0.1');
 }
 
 /**
