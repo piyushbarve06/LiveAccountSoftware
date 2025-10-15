@@ -18,7 +18,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 *
 */
 if (!defined('APP_BASE_URL')) {
-    define('APP_BASE_URL', 'http://localhost/Accountsoftwarecrm/');
+    define('APP_BASE_URL', 'https://livesoftwaretdl.in/');
 }
 
 /*
@@ -50,14 +50,14 @@ if (!defined('APP_DB_HOSTNAME')) {
  * The username used to connect to the database
  */
 if (!defined('APP_DB_USERNAME')) {
-    define('APP_DB_USERNAME', 'root');
+    define('APP_DB_USERNAME', 'accountcrmuser');
 }
 
 /**
  * The password used to connect to the database
  */
 if (!defined('APP_DB_PASSWORD')) {
-    define('APP_DB_PASSWORD', '');
+    define('APP_DB_PASSWORD', 'Live@108live');
 }
 
 /**
